@@ -1,4 +1,7 @@
-## Hi there 👋
+# Olá, bom te ver por aqui 👋
+
+<img src="/profile/logo.png" width="300">
+
 
 <!--
 
